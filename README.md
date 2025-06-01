@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=UPHry14bqvc. Titel: Weg mit der monolitischen Pr
 
 url für Webservice ist unter 'System Variables' eingetragen. Variable = API_URL, Value = https://jsonplaceholder.typicode.com/todos/1
 
+Der DataAccessLayer wird mit File==> NewProject==> "WPF Class Library" erzeugt.
+Der DataAccessLayer wird folgendermaßen eingefügt: Im solution explore rechter Mausclick auf BusinessApplication ==> Add ==> ProjectReference ==> DataAccessLayer==>OK
+
